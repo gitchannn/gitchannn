@@ -2,4 +2,5 @@
 
 - 📫 How to reach me ...
   - email: eunkeee@yonsei.ac.kr
+  - [기술블로그](https://engineerinsight.tistory.com/)
   - [포트폴리오 사이트](https://main.d3u6yjfxnkwlmm.amplifyapp.com/)
