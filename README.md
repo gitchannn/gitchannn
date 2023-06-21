@@ -5,7 +5,7 @@
 
 
 - 우아한테크코스 백엔드 5기
-- 연새데학교 산업공학과 
+- 연새데학교 공과대학 
 
 - 📫 How to reach me ...
   - email: eunkeee@yonsei.ac.kr
