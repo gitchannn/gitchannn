@@ -4,8 +4,9 @@
 
 - 연세대학교 공과대학 4학년 재학
 - 우아한테크코스 5기 백엔드
+- [깃짱코딩 바로가기](https://engineerinsight.tistory.com/){:target="_blank"}
+
 
 ### 💋 연락처
 
-- 이메일: `eunkeeee@naver.com`
-- 기술블로그: [깃짱코딩](https://engineerinsight.tistory.com/)
+- email: `eunkeeee@naver.com`
