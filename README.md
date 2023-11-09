@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitchannn&show_icons=true&theme=vue)
 
-- 연새데학교 공과대학 4학년
+- 연세대학교 공과대학 4학년 재학
 - 우아한테크코스 5기 백엔드
 
 ### 💋 연락처
