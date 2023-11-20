@@ -1,4 +1,4 @@
-### 💋 안녕하세요! 백엔드 개발자 **깃짱(조은기)**입니다
+### 💋 안녕하세요! 백엔드 개발자 깃짱(조은기)입니다
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitchannn&show_icons=true&theme=vue)
 
