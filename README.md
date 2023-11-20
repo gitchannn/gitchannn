@@ -4,7 +4,7 @@
 
 ### 💋 About Me
 
-- 연세대학교 공과대학 산업공학과 4학년 재학 `2019.03 ~`
+- 연세대학교 산업공학과 전공 (3.95 / 4.3) `2019.03 ~`
 - 개발자 부트캠프 우아한테크코스 5기 백엔드 `2023.02 ~ 2023.11`
 - 한국공학한림원 산하 전국 공과대학 연합 동아리 YEHS 기획 3부 차장 / 부장 `2021.05 ~ 2022.12`
 - 연세대학교 경영 오퍼레이션 학회 MSC(Masters of Supply Chain) 32기 학회원 `2022.01 ~ 2022.06`
@@ -14,6 +14,13 @@
 
 - [스탬프크러쉬](https://github.com/woowacourse-teams/2023-stamp-crush) `2023.07 ~ 2023.11`
   - 개인 카페의 종이 쿠폰의 **개성**을 살린 디자인 그대로 온라인에서 쿠폰을 전화번호로 **간편**하게 적립, 관리하는 서비스
+
+### 💋 Skills
+
+- Back-End: Java, Spring Framework, Spring Data JPA
+- Database: MySQL, H2
+- DevOps: AWS EC2, Nginx, Docker, Github Actions, Jenkins
+- ETC: Git, Github, IntelliJ, Slack, Notion
 
 ### 💋 Awards
 
@@ -30,7 +37,6 @@
 ### 💋 Language
 
 - TOEIC 955/990 `2020.10.10`
-
 
 ### 💋 연락처
 
