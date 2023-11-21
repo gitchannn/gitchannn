@@ -25,10 +25,9 @@
 ### 💋 Awards
 
 - [2022 국립재활원 시청각장애인 대상 보조기기 해커톤 대상 수상](https://www.fnnews.com/news/202211031159472667)
-  - 주제: [인공지능 EMS 점자 수트](https://drive.google.com/file/d/1fLPoISct84FdXtYC5RD8I_KbzjcG7PIR/view?usp=sharing)
+  - 주제: 인공지능 EMS 점자 수트
 - [2022 한국생산관리학회 춘계학술대회 최우수상 수상](http://kopoms.or.kr/sub/sub05_02.php?mNum=5&sNum=2&boardid=gallery&mode=view&idx=59&goPage=&g_idx=)
-  - 주제: [운전자의 안전을 고려한 자율주행화물차 공유 플랫폼](https://drive.google.com/file/d/1mbwpqDAJ_s0ruqKfqUZExlXr8LMgjwze/view?usp=sharing)
-
+  - 주제: 운전자의 안전을 고려한 자율주행화물차 공유 플랫폼
 ### 💋 Certificates
 
 - 컴퓨터 활용능력 1급 (고용노동부) `2021.08.27`
