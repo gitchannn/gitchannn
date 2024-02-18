@@ -15,6 +15,7 @@
 - [스탬프크러쉬](https://github.com/woowacourse-teams/2023-stamp-crush) `2023.07 ~ 2023.11`
   - 개인 카페의 종이 쿠폰의 **개성**을 살린 디자인 그대로 온라인에서 쿠폰을 전화번호로 **간편**하게 적립, 관리하는 서비스
 - [해바라기](https://github.com/orgs/Sunflower-yonsei/repositories) `2024.01 ~`
+  - 시각장애인을 위한 수학 문제를 촬영하면 점자 번역해주는 서비스
 
 ### 💋 Skills
 
