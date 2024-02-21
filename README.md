@@ -4,10 +4,10 @@
 
 ### 💋 About Me
 
-- 연세대학교 컴퓨터과학과 & 산업공학과 전공 (3.95 / 4.3) `2019.03 ~`
-- 개발자 부트캠프 우아한테크코스 5기 백엔드 수료 `2023.02 ~ 2023.11`
-- 한국공학한림원 산하 전국 공과대학 연합 동아리 YEHS 기획 3부 차장 / 부장 `2021.05 ~ 2022.12`
-- 연세대학교 경영 오퍼레이션 학회 MSC(Masters of Supply Chain) 32기 학회원 `2022.01 ~ 2022.06`
+- **연세대학교 컴퓨터과학과 & 산업공학과** 전공 (3.95 / 4.3) `2019.03 ~`
+- 개발자 부트캠프 **우아한테크코스** 5기 **백엔드** 수료 `2023.02 ~ 2023.11`
+- 한국공학한림원 산하 전국 공과대학 연합 동아리 **YEHS** 기획 3부 차장 / 부장 `2021.05 ~ 2022.12`
+- 연세대학교 경영 오퍼레이션 학회 **MSC**(Masters of Supply Chain) 32기 학회원 `2022.01 ~ 2022.06`
 - 기술블로그 <a href="https://engineerinsight.tistory.com/" target="_blank">깃짱코딩</a> `2022.11 ~`
 
 ### 💋 Project
@@ -19,10 +19,10 @@
 
 ### 💋 Skills
 
-- Back-End: Java, Spring Framework, Spring Data JPA
-- Database: MySQL, H2
-- DevOps: AWS EC2, Nginx, Docker, Github Actions, Jenkins
-- ETC: Git, Github, IntelliJ, Slack, Notion
+- **Back-End**: Java, Spring Framework, Spring Data JPA
+- **Database**: MySQL, H2
+- **DevOps**: AWS EC2, Nginx, Docker, Github Actions, Jenkins
+- **ETC**: Git, Github, IntelliJ, Slack, Notion
 
 ### 💋 Study
 - [Computer Science 스터디](https://github.com/seoul-developer/CS) `2023.12 ~`
@@ -41,7 +41,7 @@
 ### 💋 Certificates
 
 - 컴퓨터 활용능력 1급 (고용노동부) `2021.08.27`
-- 투자자산운용사 `2022.02.13`
+- 투자자산운용사 (펀드매니저) `2022.02.13`
 
 ### 💋 Language
 
