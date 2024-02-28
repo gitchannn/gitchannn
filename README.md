@@ -12,10 +12,10 @@
 
 ### 💋 Project
 
-- [스탬프크러쉬](https://github.com/woowacourse-teams/2023-stamp-crush)💮 `2023.07 ~ 2023.11`
-  - 개인 카페의 종이 쿠폰의 **개성**을 살린 디자인 그대로 온라인에서 쿠폰을 전화번호로 **간편**하게 적립, 관리하는 서비스
-- [Sunny Braille](https://github.com/orgs/Sunflower-yonsei)🌻 `2024.01 ~`
-  - 시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스 
+- [스탬프크러쉬](https://github.com/woowacourse-teams/2023-stamp-crush) 💮 `2023.07 ~ 2023.11`
+  - _개인 카페의 종이 쿠폰의 **개성**을 살린 디자인 그대로 온라인에서 쿠폰을 전화번호로 **간편**하게 적립, 관리하는 서비스_
+- [Sunny Braille](https://github.com/orgs/Sunflower-yonsei) 🌻 `2024.01 ~`
+  - _시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스_
 
 ### 💋 Skills
 
@@ -34,9 +34,9 @@
 ### 💋 Awards
 
 - [2022 국립재활원 시청각장애인 대상 보조기기 해커톤 대상 수상](https://www.fnnews.com/news/202211031159472667)
-  - 주제: 인공지능 EMS 점자 수트
+  - _주제: 인공지능 EMS 점자 수트_
 - [2022 한국생산관리학회 춘계학술대회 최우수상 수상](http://kopoms.or.kr/sub/sub05_02.php?mNum=5&sNum=2&boardid=gallery&mode=view&idx=59&goPage=&g_idx=)
-  - 주제: 운전자의 안전을 고려한 자율주행화물차 공유 플랫폼
+  - _주제: 운전자의 안전을 고려한 자율주행화물차 공유 플랫폼_
  
 ### 💋 Certificates
 
