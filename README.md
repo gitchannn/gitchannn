@@ -7,7 +7,6 @@
 - **연세대학교 컴퓨터과학과 & 산업공학과** 전공 (3.95 / 4.3) `2019.03 ~`
 - 개발자 부트캠프 **우아한테크코스** 5기 **백엔드** 수료 `2023.02 ~ 2023.11`
 - 한국공학한림원 산하 전국 공과대학 연합 동아리 **YEHS** 기획 3부 차장 / 부장 `2021.05 ~ 2022.12`
-- 연세대학교 경영 오퍼레이션 학회 **MSC**(Masters of Supply Chain) 32기 학회원 `2022.01 ~ 2022.06`
 - 기술블로그 <a href="https://engineerinsight.tistory.com/" target="_blank">깃짱코딩</a> `2022.11 ~`
 
 ### 💋 Project
@@ -16,6 +15,7 @@
   - _개인 카페의 종이 쿠폰의 **개성**을 살린 디자인 그대로 온라인에서 쿠폰을 전화번호로 **간편**하게 적립, 관리하는 서비스_
 - [Sunny Braille](https://github.com/sunnybraille) 🌻 `2024.01 ~`
   - _시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스_
+- [LG WebOS project](https://github.com/WebOS-yonsei) `2024.04 ~`
 
 ### 💋 Skills
 
@@ -25,6 +25,7 @@
 - **ETC**: Git, Github, IntelliJ, Slack, Notion
 
 ### 💋 Study
+- [학교생활모음.zip](https://github.com/orgs/gitchan-yonsei/repositories)
 - [Computer Science 스터디](https://github.com/seoul-developer/CS) `2023.12 ~`
 - [알고리즘 자율 스터디](https://github.com/seoul-developer/algorithm) `2023.10 ~`
 - [개인 공부 모음 Repo](https://github.com/orgs/gitchan-Study/repositories) `2022.11 ~`
