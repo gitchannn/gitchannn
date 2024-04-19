@@ -11,11 +11,11 @@
 
 ### 💋 Project
 
-- [스탬프크러쉬](https://github.com/woowacourse-teams/2023-stamp-crush) 💮 `2023.07 ~ 2023.11`
-  - _개인 카페의 종이 쿠폰의 **개성**을 살린 디자인 그대로 온라인에서 쿠폰을 전화번호로 **간편**하게 적립, 관리하는 서비스_
+- [LG WebOS project](https://github.com/WebOS-yonsei) `2024.04 ~`
 - [Sunny Braille](https://github.com/sunnybraille) 🌻 `2024.01 ~`
   - _시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스_
-- [LG WebOS project](https://github.com/WebOS-yonsei) `2024.04 ~`
+- [스탬프크러쉬](https://github.com/woowacourse-teams/2023-stamp-crush) 💮 `2023.07 ~ 2023.11`
+  - _개인 카페의 종이 쿠폰의 **개성**을 살린 디자인 그대로 온라인에서 쿠폰을 전화번호로 **간편**하게 적립, 관리하는 서비스_
 
 ### 💋 Skills
 
