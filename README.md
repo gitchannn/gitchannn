@@ -26,7 +26,7 @@
 - **ETC**: Git, Github, IntelliJ, Slack, Notion
 
 ### 💋 Study
-- [학교생활모음.zip](https://github.com/orgs/gitchan-yonsei/repositories)
+- [학교생활모음.zip](https://github.com/orgs/gitchan-yonsei/repositories) `2024.03 ~`
 - [Computer Science 스터디](https://github.com/seoul-developer/CS) `2023.12 ~`
 - [알고리즘 자율 스터디](https://github.com/seoul-developer/algorithm) `2023.10 ~`
 - [개인 공부 모음 Repo](https://github.com/orgs/gitchan-Study/repositories) `2022.11 ~`
