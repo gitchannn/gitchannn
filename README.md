@@ -30,7 +30,7 @@
 - [Computer Science 스터디](https://github.com/seoul-developer/CS) `2023.12 ~`
 - [알고리즘 자율 스터디](https://github.com/seoul-developer/algorithm) `2023.10 ~`
 - [개인 공부 모음 Repo](https://github.com/orgs/gitchan-Study/repositories) `2022.11 ~`
-- [이펙티브 자바 스터디](https://github.com/gitchannn/woowa-course-study) `2023.02 ~ 2023.04`
+- [이펙티브 자바 스터디 주도]([https://github.com/gitchannn/woowa-course-study](https://github.com/gitchannn/2023-effective-java) `2023.02 ~ 2023.04`
 - [우아한테크코스 프리코스 코드리뷰 스터디 주도](https://github.com/gitchannn/woowa-course-study) `2022.11 ~ 2022.12`
 
 ### 💋 Awards
