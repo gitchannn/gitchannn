@@ -6,6 +6,7 @@
 
 - **연세대학교 컴퓨터과학과 & 산업공학과** 전공 (3.95 / 4.3) `2019.03 ~`
 - 개발자 부트캠프 **우아한테크코스** 5기 **백엔드** 수료 `2023.02 ~ 2023.11`
+- [AIGOYA LABS](https://github.com/orgs/aigoya-labs/repositories) CEO & Server Developer `2024.04 ~`
 - 한국공학한림원 산하 전국 공과대학 연합 동아리 **YEHS** 기획 3부 차장 / 부장 `2021.05 ~ 2022.12`
 - 기술블로그 <a href="https://engineerinsight.tistory.com/" target="_blank">깃짱코딩</a> `2022.11 ~`
 
