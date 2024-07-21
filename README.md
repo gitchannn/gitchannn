@@ -12,7 +12,7 @@
 
 ### 💋 Project
 
-- [LG WebOS project](https://github.com/WebOS-yonsei) `2024.04 ~`
+- [LG WebOS project](https://github.com/WebOS-yonsei/WebOS-yonsei) `2024.04 ~ 2024.06`
 - [Sunny Braille](https://github.com/sunnybraille) 🌻 `2024.01 ~ 2024.04`
   - _시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스_
 - [스탬프크러쉬](https://github.com/woowacourse-teams/2023-stamp-crush) 💮 `2023.07 ~ 2023.11`
