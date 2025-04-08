@@ -36,15 +36,17 @@
 
 ### 💋 Awards
 
-- [2022 국립재활원 시청각장애인 대상 보조기기 해커톤 대상 수상](https://www.fnnews.com/news/202211031159472667)
+- **2024 인공지능융합사업단 AI 창업경진대회 장려상** (사업화 지원금 3500만원) `2024.6.19`
+  - _주제: AI 개발 생산성 향상 툴 aigoya_
+- [2022 국립재활원 시청각장애인 대상 보조기기 해커톤 대상 수상](https://www.fnnews.com/news/202211031159472667) `2022.09.04`
   - _주제: 인공지능 EMS 점자 수트_
-- [2022 한국생산관리학회 춘계학술대회 최우수상 수상](http://kopoms.or.kr/sub/sub05_02.php?mNum=5&sNum=2&boardid=gallery&mode=view&idx=59&goPage=&g_idx=)
+- [2022 한국생산관리학회 춘계학술대회 최우수상 수상](http://kopoms.or.kr/sub/sub05_02.php?mNum=5&sNum=2&boardid=gallery&mode=view&idx=59&goPage=&g_idx=) `2022.05.01`
   - _주제: 운전자의 안전을 고려한 자율주행화물차 공유 플랫폼_
  
 ### 💋 Certificates
 
 - 컴퓨터 활용능력 1급 (고용노동부) `2021.08.27`
-- 투자자산운용사 (펀드매니저) `2022.02.13`
+- 투자자산운용사 (한국금융투자협회) `2022.02.13`
 
 ### 💋 Language
 
