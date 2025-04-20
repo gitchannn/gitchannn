@@ -20,7 +20,7 @@
 
 ### 💋 Skills
 
-- **Languages**: _Java_, JavaScript, _C_, _C++_, _Assembly_
+- **Languages**: _Java_, Kotlin, JavaScript, _C_, _C++_, _Assembly_
 - **Back-End**: Spring Framework, Spring Data JPA
 - **Database**: MySQL, H2
 - **DevOps**: AWS EC2, Nginx, Docker, Github Actions, Jenkins
