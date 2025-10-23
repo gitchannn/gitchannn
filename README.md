@@ -12,7 +12,7 @@
 
 ### 💋 Project
 
-- [RAG 기반 희귀품종 무화 챗봇 프로젝트](https://github.com/AiResearch2025/FigVarietyRAGChat) `2025.10`
+- [RAG 기반 희귀품종 무화과 LLM 챗봇 프로젝트](https://github.com/AiResearch2025/FigVarietyRAGChat) `2025.10`
 - [LG WebOS project](https://github.com/WebOS-yonsei/WebOS-yonsei) `2024.04 ~ 2024.06`
 - [Sunny Braille](https://github.com/sunnybraille) 🌻 `2024.01 ~ 2024.04`
   - _시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스_
