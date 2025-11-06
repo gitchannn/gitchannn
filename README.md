@@ -1,7 +1,5 @@
 ## 🌏 안녕하세요! 백엔드 개발자 깃짱(조은기)입니다
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitchannn&show_icons=true&theme=vue)
-
 ### ✅ About Me
 
 - **연세대학교 컴퓨터과학과 & 산업공학과** 전공 (3.87 / 4.3) `2019.03 ~ 2026.02`
